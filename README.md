@@ -37,5 +37,4 @@ ML-Mental-Health-Detection/
 
 ## 👨‍💻 Developed By
 **Saksham Singh**  
-B.Tech IT, VIT Vellore  
-GitHub: [@SakshamSingh](https://github.com/your-username)
+B.Tech ECE, VIT Vellore  
